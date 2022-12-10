@@ -1,1 +1,1 @@
-https://devscaler.github.io/rsschool-cv/cv
+https://devscaler.github.io/rsschool-cv/
